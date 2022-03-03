@@ -1,0 +1,12 @@
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\bin\Debug\VitalSignTestCaseConsoles.exe.config
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\bin\Debug\VitalSignTestCaseConsoles.exe
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\bin\Debug\VitalSignTestCaseConsoles.pdb
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\obj\Debug\VitalSignTestCaseConsoles.csprojResolveAssemblyReference.cache
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\obj\Debug\VitalSignTestCaseConsoles.Form1.resources
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\obj\Debug\VitalSignTestCaseConsoles.Properties.Resources.resources
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\obj\Debug\VitalSignTestCaseConsoles.csproj.GenerateResource.Cache
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\obj\Debug\VitalSignTestCaseConsoles.exe
+C:\git\VitalSignProfessional\VitalSignTestCaseConsoles\obj\Debug\VitalSignTestCaseConsoles.pdb
+C:\git\VitalSignProfessional\Debug\VitalSignTestCaseConsoles.exe.config
+C:\git\VitalSignProfessional\Debug\VitalSignTestCaseConsoles.exe
+C:\git\VitalSignProfessional\Debug\VitalSignTestCaseConsoles.pdb
